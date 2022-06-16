@@ -1,7 +1,7 @@
 Hi, I'm Joost van der Putten
 
 You can find most of my repos in the related organizations.
-- For automation scripts, go to papydur-automation
+- For automation scripts, go to papydur-scripts
 - For ai stuff, see papydur-ai
 - For personal projects go to papydur-projects
 - For math/datastructures/algorithm based repos, see papydur-dsa
